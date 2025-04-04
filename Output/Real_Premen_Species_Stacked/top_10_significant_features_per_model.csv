@@ -1,0 +1,41 @@
+Model,Rank,Feature Name
+Random Forest,1,Bacteroides vulgatus
+Random Forest,2,Clostridium cellulolyticum
+Random Forest,3,Cellulosilyticum lentocellum
+Random Forest,4,Acidaminococcus fermentans
+Random Forest,5,Escherichia coli
+Random Forest,6,Bacteroides fragilis
+Random Forest,7,Anaerococcus prevotii
+Random Forest,8,Lawsonia intracellularis
+Random Forest,9,Eubacterium eligens
+Random Forest,10,Eubacterium rectale
+XGBoost,1,Clostridium cellulolyticum
+XGBoost,2,Lactobacillus sakei
+XGBoost,3,Odoribacter splanchnicus
+XGBoost,4,Fluviicola taffensis
+XGBoost,5,Anaerococcus prevotii
+XGBoost,6,Leadbetterella byssophila
+XGBoost,7,Acidaminococcus fermentans
+XGBoost,8,Polynucleobacter necessarius
+XGBoost,9,Eubacterium rectale
+XGBoost,10,Hippea maritima
+Gradient Boosting,1,Clostridium cellulolyticum
+Gradient Boosting,2,Odoribacter splanchnicus
+Gradient Boosting,3,Acholeplasma laidlawii
+Gradient Boosting,4,Acidaminococcus fermentans
+Gradient Boosting,5,Klebsiella pneumoniae
+Gradient Boosting,6,Fibrobacter succinogenes
+Gradient Boosting,7,Cupriavidus taiwanensis
+Gradient Boosting,8,Roseburia hominis
+Gradient Boosting,9,Elusimicrobium minutum
+Gradient Boosting,10,Oceanobacillus iheyensis
+Stacking Ensemble,1,Clostridium cellulolyticum
+Stacking Ensemble,2,Acidaminococcus fermentans
+Stacking Ensemble,3,Desulfotomaculum acetoxidans
+Stacking Ensemble,4,Desulfitobacterium hafniense
+Stacking Ensemble,5,Desulfarculus baarsii
+Stacking Ensemble,6,Dechloromonas aromatica
+Stacking Ensemble,7,Cyclobacterium marinum
+Stacking Ensemble,8,Cupriavidus taiwanensis
+Stacking Ensemble,9,Coriobacterium glomerans
+Stacking Ensemble,10,Coprothermobacter proteolyticus

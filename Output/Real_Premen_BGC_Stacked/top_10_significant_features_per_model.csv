@@ -1,0 +1,41 @@
+Model,Rank,Feature Name
+Random Forest,1,thiopeptide
+Random Forest,2,NRPS
+Random Forest,3,resorcinol
+Random Forest,4,RRE-containing
+Random Forest,5,ranthipeptide
+Random Forest,6,cyclic-lactone-autoinducer
+Random Forest,7,hybrid
+Random Forest,8,NRPS-like
+Random Forest,9,arylpolyene
+Random Forest,10,RiPP-like
+XGBoost,1,thiopeptide
+XGBoost,2,NRPS
+XGBoost,3,RRE-containing
+XGBoost,4,betalactone
+XGBoost,5,cyclic-lactone-autoinducer
+XGBoost,6,ranthipeptide
+XGBoost,7,hybrid
+XGBoost,8,arylpolyene
+XGBoost,9,RiPP-like
+XGBoost,10,terpene
+Gradient Boosting,1,thiopeptide
+Gradient Boosting,2,NRPS
+Gradient Boosting,3,betalactone
+Gradient Boosting,4,ladderane
+Gradient Boosting,5,CDPS
+Gradient Boosting,6,terpene
+Gradient Boosting,7,resorcinol
+Gradient Boosting,8,NRPS-like
+Gradient Boosting,9,hybrid
+Gradient Boosting,10,ranthipeptide
+Stacking Ensemble,1,thiopeptide
+Stacking Ensemble,2,betalactone
+Stacking Ensemble,3,cyclic-lactone-autoinducer
+Stacking Ensemble,4,lanthipeptide-class-i
+Stacking Ensemble,5,sactipeptide
+Stacking Ensemble,6,siderophore
+Stacking Ensemble,7,terpene
+Stacking Ensemble,8,ranthipeptide
+Stacking Ensemble,9,ladderane
+Stacking Ensemble,10,lanthipeptide-class-ii

@@ -1,0 +1,11 @@
+Feature Name,Score,P-Value,Class Association
+resorcinol,321814.60694047814,0.00e+00,Premenopause_Case
+arylpolyene,160285.99448088772,0.00e+00,Premenopause_Case
+cyclic-lactone-autoinducer,116247.67064692618,0.00e+00,Premenopause_Control
+siderophore,91874.54641118136,0.00e+00,Premenopause_Case
+ranthipeptide,84196.22833269648,0.00e+00,Premenopause_Control
+betalactone,82720.86562440425,0.00e+00,Premenopause_Control
+thiopeptide,81602.30347574619,0.00e+00,Premenopause_Case
+CDPS,53834.30461938099,0.00e+00,Premenopause_Case
+RiPP-like,43445.53863556433,0.00e+00,Premenopause_Case
+RRE-containing,31111.804137802173,0.00e+00,Premenopause_Control

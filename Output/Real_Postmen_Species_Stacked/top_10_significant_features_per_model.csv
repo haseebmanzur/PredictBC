@@ -1,0 +1,41 @@
+Model,Rank,Feature Name
+Random Forest,1,Escherichia coli
+Random Forest,2,Eubacterium eligens
+Random Forest,3,Desulfovibrio vulgaris
+Random Forest,4,Fusobacterium nucleatum
+Random Forest,5,Roseburia hominis
+Random Forest,6,Taylorella equigenitalis
+Random Forest,7,Ilyobacter polytropus
+Random Forest,8,Parabacteroides distasonis
+Random Forest,9,Bifidobacterium adolescentis
+Random Forest,10,Eubacterium rectale
+XGBoost,1,Polynucleobacter necessarius
+XGBoost,2,Fluviicola taffensis
+XGBoost,3,Eubacterium eligens
+XGBoost,4,Escherichia coli
+XGBoost,5,Butyrivibrio proteoclasticus
+XGBoost,6,Fusobacterium nucleatum
+XGBoost,7,Paludibacter propionicigenes
+XGBoost,8,Citrobacter koseri
+XGBoost,9,Clostridium sp. SY8519
+XGBoost,10,Clostridium cellulovorans
+Gradient Boosting,1,Eubacterium eligens
+Gradient Boosting,2,Escherichia coli
+Gradient Boosting,3,Desulfovibrio vulgaris
+Gradient Boosting,4,Clostridium cellulovorans
+Gradient Boosting,5,Alkaliphilus oremlandii
+Gradient Boosting,6,Fusobacterium nucleatum
+Gradient Boosting,7,Parabacteroides distasonis
+Gradient Boosting,8,Eubacterium limosum
+Gradient Boosting,9,Neisseria meningitidis
+Gradient Boosting,10,Odoribacter splanchnicus
+Stacking Ensemble,1,Eubacterium eligens
+Stacking Ensemble,2,Ilyobacter polytropus
+Stacking Ensemble,3,Desulfovibrio vulgaris
+Stacking Ensemble,4,Roseburia hominis
+Stacking Ensemble,5,Alkaliphilus oremlandii
+Stacking Ensemble,6,Bacteroides vulgatus
+Stacking Ensemble,7,Enterococcus faecalis
+Stacking Ensemble,8,Enterobacter sp. 638
+Stacking Ensemble,9,Elusimicrobium minutum
+Stacking Ensemble,10,Eggerthella lenta

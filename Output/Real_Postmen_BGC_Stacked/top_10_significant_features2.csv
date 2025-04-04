@@ -1,0 +1,11 @@
+Feature Name,Score,P-Value,Class Association
+NRPS-like,323415.27535258606,0.00e+00,Postmenopause_Case
+cyclic-lactone-autoinducer,300503.41568717966,0.00e+00,Postmenopause_Control
+siderophore,197541.00863281006,0.00e+00,Postmenopause_Case
+thiopeptide,158568.89192005878,0.00e+00,Postmenopause_Case
+redox-cofactor,42605.13046883062,0.00e+00,Postmenopause_Case
+NRPS,33381.35211347481,0.00e+00,Postmenopause_Case
+LAP,32787.48320258154,0.00e+00,Postmenopause_Case
+T1PKS,29125.75548806432,0.00e+00,Postmenopause_Control
+ladderane,19335.47702557951,0.00e+00,Postmenopause_Case
+lanthipeptide-class-i,16590.690645012328,0.00e+00,Postmenopause_Case

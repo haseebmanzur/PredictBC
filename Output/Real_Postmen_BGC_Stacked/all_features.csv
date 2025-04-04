@@ -1,0 +1,23 @@
+Feature Name,Score,P-Value,Class Association
+CDPS,743.8687237449548,8.64e-164,Postmenopause_Control
+LAP,32787.48320258154,0.00e+00,Postmenopause_Case
+NRPS,33381.35211347481,0.00e+00,Postmenopause_Case
+NRPS-like,323415.27535258606,0.00e+00,Postmenopause_Case
+RRE-containing,321.4074098842202,7.15e-72,Postmenopause_Case
+RiPP-like,11925.487462156847,0.00e+00,Postmenopause_Case
+T1PKS,29125.75548806432,0.00e+00,Postmenopause_Control
+T3PKS,9820.06777889686,0.00e+00,Postmenopause_Case
+arylpolyene,2288.372873340346,0.00e+00,Postmenopause_Control
+betalactone,975.4385775541853,3.92e-214,Postmenopause_Control
+cyclic-lactone-autoinducer,300503.41568717966,0.00e+00,Postmenopause_Control
+hybrid,1915.2200285675826,0.00e+00,Postmenopause_Control
+ladderane,19335.47702557951,0.00e+00,Postmenopause_Case
+lanthipeptide-class-i,16590.690645012328,0.00e+00,Postmenopause_Case
+lanthipeptide-class-ii,4.639045584352774,3.13e-02,Postmenopause_Case
+lassopeptide,1714.1922643201729,0.00e+00,Postmenopause_Case
+ranthipeptide,722.9921079937924,2.99e-159,Postmenopause_Control
+redox-cofactor,42605.13046883062,0.00e+00,Postmenopause_Case
+resorcinol,14381.218064479239,0.00e+00,Postmenopause_Case
+siderophore,197541.00863281006,0.00e+00,Postmenopause_Case
+terpene,1047.6094745797745,8.05e-230,Postmenopause_Control
+thiopeptide,158568.89192005878,0.00e+00,Postmenopause_Case

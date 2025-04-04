@@ -1,0 +1,11 @@
+Feature Name,Score,P-Value,Class Association
+Bacteroides vulgatus,495775.3069965937,0.00e+00,Premenopause_Case
+Bacteroides salanitronis,139512.64915098538,0.00e+00,Premenopause_Control
+Escherichia coli,122922.63436356877,0.00e+00,Premenopause_Case
+Lactococcus garvieae,121051.96286051368,0.00e+00,Premenopause_Case
+Prevotella melaninogenica,84812.98937682336,0.00e+00,Premenopause_Control
+Bacteroides fragilis,75343.08688895046,0.00e+00,Premenopause_Case
+Prevotella ruminicola,60513.38792076441,0.00e+00,Premenopause_Control
+Elusimicrobium minutum,48092.06713008638,0.00e+00,Premenopause_Control
+Bacteroides thetaiotaomicron,43821.104447209465,0.00e+00,Premenopause_Case
+Akkermansia muciniphila,28958.89741439392,0.00e+00,Premenopause_Case

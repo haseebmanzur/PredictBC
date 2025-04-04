@@ -1,0 +1,11 @@
+Feature Name,Score,P-Value,Class Association
+Bacteroides salanitronis,420345.4555705982,0.00e+00,Postmenopause_Control
+Escherichia coli,409748.9021909947,0.00e+00,Postmenopause_Case
+Bacteroides fragilis,199220.9019511452,0.00e+00,Postmenopause_Case
+Veillonella parvula,133224.32842330207,0.00e+00,Postmenopause_Case
+Fusobacterium nucleatum,131454.679016149,0.00e+00,Postmenopause_Case
+Selenomonas sputigena,111623.04886126661,0.00e+00,Postmenopause_Control
+Klebsiella pneumoniae,99115.66440447974,0.00e+00,Postmenopause_Case
+Thermodesulfovibrio yellowstonii,70556.2867463605,0.00e+00,Postmenopause_Control
+Ilyobacter polytropus,64049.05541795312,0.00e+00,Postmenopause_Case
+Akkermansia muciniphila,53937.495523833146,0.00e+00,Postmenopause_Case
