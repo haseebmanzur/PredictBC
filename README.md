@@ -1,6 +1,6 @@
 
 # PredictBC: Predictive Ensemble Models for Breast Cancer Classification Using Microbial and Metabolomic Signatures
-
+---
 ## Project Overview
 PredictBC leverages advanced ensemble machine learning methods to classify breast cancer cases (pre- and postmenopausal) against control subjects using microbial species and metabolite (BGC) abundance data. The ensemble method significantly enhances predictive performance by integrating predictions from multiple classifiers.
 
