@@ -14,9 +14,6 @@ The data includes abundance matrices for microbial species and metabolites (BGC)
 
 ## Modeling Approach
 The ensemble model incorporates Random Forest, Gradient Boosting, and XGBoost classifiers, employing a stacking ensemble approach to enhance predictive accuracy. The script provided is for the premenopausal species category but can be generalized to postmenopausal and BGC data.
-
----
-
 ### Steps Included in the Ensemble Modeling Script:
 - Data preprocessing and feature engineering
 - Implementation and training of individual classifiers (RF, GB, XGB)
